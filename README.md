@@ -1,1 +1,1 @@
-# This is ReadMe about Chris Achinga
+# This is ReadMe about Patrick Mwangi
