@@ -6,15 +6,15 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Chris Achinga | the codeFather</title>
+        <title>Patrick Mwangi | the divingsquid</title>
         <meta
           name='description'
-          content='Chris Ndanyi Achinga: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
+          content='Patrick Mwangi: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
         />
         <meta name='title' content='Chris Achinga | the codeFather' />
         <meta
           name='description'
-          content='Chris Ndanyi Achinga: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
+          content='Patrick Mwangi: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
         />
         {/* Open Graph / Facebook */}
         <meta property='og:type' content='website' />
@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
         <meta property='og:title' content='Chris Achinga | the codeFather' />
         <meta
           property='og:description'
-          content='Chris Ndanyi Achinga: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
+          content='Patrick Mwangi: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
         />
         <meta
           property='og:image'
@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
         />
         <meta
           property='twitter:description'
-          content='Chris Ndanyi Achinga: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
+          content='Patrick Mwangi: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
         />
         <meta
           property='twitter:image'
@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
         />
         <meta
           name='keywords'
-          content='Chris Ndanyi Achinga, Fullstack Developer, Software Engineer, NodeJs, React, Next.Js, Python Django, Angular'
+          content='Patrick Mwangi: Experienced Fullstack Developer specializing in NodeJs, React, Next.Js, Python Django, and Angular.'
         />
         <meta name='robots' content='index,follow' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />

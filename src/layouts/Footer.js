@@ -11,12 +11,12 @@ const Footer = () => {
           <div className='col-auto'>
             <a
               className='small'
-              href='https://www.linkedin.com/in/chrisachinga/'
+              href='https://www.linkedin.com/in/patrick-wanjiku-979381150/'
             >
               LinkedIn
             </a>
             <span className='mx-1'>·</span>
-            <a className='small' href='https://twitter.com/achinga_chris'>
+            <a className='small' href='https://x.com/_fahimmm'>
               Twitter
             </a>
             <span className='mx-1'>·</span>
